@@ -1,7 +1,7 @@
 "IntelliSense" Error in VS Code w/ ASP.NET Core 2.0
 ===================================================
 
-VS Code's "IntelliSense" reports errors when authoring an ASP.NET Core 2.0 application on Windows, targeting .NET Framework 4.7 (full-framework, not .NET Core), with a runtime identifier of `win7-x64`.  The errors seems to persist even if targeting .NET 4.6.1 or 4.6.2, and even without a runtime identifier specified.
+VS Code's "IntelliSense" reports errors when authoring an ASP.NET Core 2.0 application on Windows, targeting .NET Framework 4.6.1 or 4.7 (full-framework, not .NET Core).
 
 The IntelliSense errors follow this format:
 ```
