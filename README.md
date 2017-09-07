@@ -5,7 +5,7 @@ VS Code's "IntelliSense" reports errors when authoring an ASP.NET Core 2.0 appli
 
 The IntelliSense errors follow this format:
 ```
-The type '<TYPE>' is defined in an assembly that is not referenced. You must add a reference to assembly 'netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2dd51'. [<PROJECT_NAME>]
+The type '<TYPE>' is defined in an assembly that is not referenced. You must add a reference to assembly 'netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. [<PROJECT_NAME>]
 ```
 
 Error screenshots, when mousing over red squigglies
